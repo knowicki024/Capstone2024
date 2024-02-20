@@ -93,7 +93,8 @@ POST /users
 
 ## WireFrame 
 
-[Figma](https://www.figma.com/file/oEc25KMiUeiXDuHtSbrd11/Capstone-Layout?type=whiteboard&node-id=13-3531&t=TltYmf1Mcc4R2Krm-0)
+![Wireframe](<capstone images - Imgur (5).png>)
+
 
 
 
