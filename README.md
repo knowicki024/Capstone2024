@@ -4,7 +4,8 @@
 
 Your own digital cookbook! Keep all your recipes in one location instead of scrolling through endless apps to find something to cook up. Share your recipes with friends, create your own recipes, change different recipes to make them more personalized, search through your collection to be able to plan the week or a special event. 
 
-![domain model](<capstone images - Imgur (1).png>)
+![domain model](<capstone images - Imgur (4).png>)
+
 
 ![erd](<capstone images - Imgur (2).png>)
 
@@ -41,8 +42,8 @@ D. Delete recipes, meal plans
 ## Backend(API) 
 
 ### Models 
-- A `Meal Plan` has many `Recipes` through `User`
-- A `Recipes` has many `Meal Plan` through `User`
+- A `User` has many `Meal Plan` through `Recipe`
+- A `Recipe` has many `Meal Plan` through `User`
 - A `Meal Plan` belongs to `Recipes` and `User`
 - A `Category` belongs to `Recipes`
 
@@ -111,4 +112,7 @@ Stretch Goals:
 - Social Media Application 
 - Add more models and components
 
+
+## Keep Track of Progress:
+[Trello](https://trello.com/b/xDMt2Qhs/capstone2024)
 
