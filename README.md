@@ -82,9 +82,16 @@ POST /users
 ### Serilizers 
 
 ## Front End (React)
-- 
-- 
-- 
+![component tree](<capstone images - Imgur.png>)
+
+- User can implement full CRUD on client side for recipes that persists to the server
+
+- User can navigate through application through NavBar and React Routers 
+
+- User can add new recipes and meal plans through recipes 
+
+
+
 
 
 
