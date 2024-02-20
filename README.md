@@ -90,6 +90,10 @@ POST /users
 
 - User can add new recipes and meal plans through recipes 
 
+## WireFrame 
+
+[Figma](https://www.figma.com/file/oEc25KMiUeiXDuHtSbrd11/Capstone-Layout?type=whiteboard&node-id=13-3531&t=TltYmf1Mcc4R2Krm-0)
+
 
 
 
